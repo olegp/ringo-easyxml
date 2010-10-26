@@ -1,7 +1,7 @@
 {
     "name": "ringo-easyxml",
     "version": "0.1.0",
-    "description": "XML (E4X) to JSON converter",
+    "description": "XML to JSON converter",
     "keywords": ["xml", "json"],
     "author": "Oleg Podsechin (http://github.com/olegp)"
 }
