@@ -18,7 +18,7 @@ the children are placed inside a special attribute named "_":
 
 For options, take a look at testOptions in `test/all.js.`
 
-You can also pass in E4X XML objects in directly, so these work:
+You can also pass in E4X XML objects directly, so these work:
 
     XMLtoJSON(new XML('<a><b>c</b></a>'));
     XMLtoJSON(require('wraps/tagsoup').parse("http://news.ycombinator.com/"));
